@@ -1,0 +1,41 @@
+{
+  "test_timestamp": "2025-07-31T15:42:00.444535",
+  "test_status": "SUCCESS",
+  "overall_score": 10.0,
+  "use_large_text_templates": true,
+  "custom_placeholders_configured": 14,
+  "document_generation": {
+    "success": true,
+    "sections_generated": 5,
+    "total_words": 3380,
+    "total_characters": 21680
+  },
+  "placeholder_integration": {
+    "success": true,
+    "placeholders_used": 4,
+    "placeholder_details": {
+      "YOUR_REGULATOR": "disclaimer",
+      "YOUR_PHONE": "key_terms",
+      "TRADEMARK_NOTICE": "executive_summary",
+      "INITIAL_VALUATION_DATE": "executive_summary"
+    }
+  },
+  "llm_interaction": {
+    "missing_data_handling": true,
+    "incomplete_input_support": true,
+    "graceful_degradation": true
+  },
+  "quality_assessment": {
+    "content_quality_score": 10,
+    "regulatory_compliance": true,
+    "canadian_regulatory_language": true,
+    "professional_formatting": true
+  },
+  "configuration": {
+    "company_name": "Your Financial Services Ltd",
+    "regulator": "the Canadian Investment Regulatory Organization",
+    "phone": "1-833-594-3143",
+    "asset_description": "Solactive Canada Insurance 220 AR Index (the \"Inde...",
+    "volatility_range": "11.25%-78.75% annually"
+  }
+}

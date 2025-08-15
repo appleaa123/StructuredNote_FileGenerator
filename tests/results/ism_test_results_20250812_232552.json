@@ -1,0 +1,34 @@
+{
+  "test_timestamp": "2025-08-12T23:25:50.862757",
+  "tests": {
+    "basic_functionality": {
+      "success": true,
+      "message": "All basic functionality tests passed"
+    },
+    "ism_models": {
+      "success": true,
+      "input_fields": 23,
+      "output_fields": 23
+    },
+    "agent_creation": {
+      "success": true,
+      "agent_type": "ISMAgent"
+    },
+    "large_text_agent": {
+      "success": true,
+      "agent_type": "LargeTextISMAgent"
+    },
+    "document_generation": {
+      "success": true,
+      "skipped": true,
+      "reason": "missing_or_placeholder_openai_api_key"
+    },
+    "error_handling": {
+      "success": true,
+      "validation_tests": "passed"
+    }
+  },
+  "overall_score": 10.0,
+  "critical_issues": [],
+  "recommendations": []
+}

@@ -1,0 +1,214 @@
+{
+  "test_suite": "Component Integration Tests",
+  "timestamp": "2025-08-13T15:22:45.446007",
+  "duration_seconds": 0.27066802978515625,
+  "components": {
+    "Router": {
+      "component": "Router",
+      "tests_run": 10,
+      "tests_passed": 0,
+      "tests_failed": 10,
+      "test_details": [
+        {
+          "test": "test_single_agent_routing_ism_only",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_single_agent_routing_ism_only() missing 2 required positional arguments: 'router' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_multi_agent_routing_ism_bsp",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_multi_agent_routing_ism_bsp() missing 2 required positional arguments: 'router' and 'sample_multi_agent_request'"
+        },
+        {
+          "test": "test_confidence_scoring_accuracy",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_confidence_scoring_accuracy() missing 1 required positional argument: 'router'"
+        },
+        {
+          "test": "test_information_extraction_accuracy",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_information_extraction_accuracy() missing 1 required positional argument: 'router'"
+        },
+        {
+          "test": "test_task_decomposition_validation",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_task_decomposition_validation() missing 2 required positional arguments: 'router' and 'sample_complex_request'"
+        },
+        {
+          "test": "test_error_handling_invalid_requests",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_error_handling_invalid_requests() missing 2 required positional arguments: 'router' and 'sample_invalid_request'"
+        },
+        {
+          "test": "test_routing_decision_validation",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_routing_decision_validation() missing 2 required positional arguments: 'router' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_agent_capabilities_retrieval",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_agent_capabilities_retrieval() missing 1 required positional argument: 'router'"
+        },
+        {
+          "test": "test_route_request_method",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_route_request_method() missing 1 required positional argument: 'router'"
+        },
+        {
+          "test": "test_edge_cases_and_boundaries",
+          "status": "FAILED",
+          "error": "TestRouterIntegration.test_edge_cases_and_boundaries() missing 1 required positional argument: 'router'"
+        }
+      ]
+    },
+    "GlobalAgent": {
+      "component": "GlobalAgent",
+      "tests_run": 11,
+      "tests_passed": 0,
+      "tests_failed": 11,
+      "test_details": [
+        {
+          "test": "test_session_management",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_session_management() missing 2 required positional arguments: 'global_agent' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_agent_coordination",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_agent_coordination() missing 2 required positional arguments: 'global_agent' and 'sample_multi_agent_request'"
+        },
+        {
+          "test": "test_result_aggregation",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_result_aggregation() missing 2 required positional arguments: 'global_agent' and 'sample_multi_agent_request'"
+        },
+        {
+          "test": "test_feedback_processing",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_feedback_processing() missing 2 required positional arguments: 'global_agent' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_conversation_state_transitions",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_conversation_state_transitions() missing 2 required positional arguments: 'global_agent' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_error_recovery_mechanisms",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_error_recovery_mechanisms() missing 1 required positional argument: 'global_agent'"
+        },
+        {
+          "test": "test_conversation_history_management",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_conversation_history_management() missing 2 required positional arguments: 'global_agent' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_agent_status_retrieval",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_agent_status_retrieval() missing 1 required positional argument: 'global_agent'"
+        },
+        {
+          "test": "test_audit_trail_functionality",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_audit_trail_functionality() missing 2 required positional arguments: 'global_agent' and 'sample_ism_request'"
+        },
+        {
+          "test": "test_conversation_statistics",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_conversation_statistics() missing 1 required positional argument: 'global_agent'"
+        },
+        {
+          "test": "test_edge_cases_and_error_handling",
+          "status": "FAILED",
+          "error": "TestGlobalAgentIntegration.test_edge_cases_and_error_handling() missing 1 required positional argument: 'global_agent'"
+        }
+      ]
+    },
+    "ISMAgent": {
+      "component": "ISMAgent",
+      "tests_run": 9,
+      "tests_passed": 0,
+      "tests_failed": 9,
+      "test_details": [
+        {
+          "test": "test_document_generation_workflow",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_document_generation_workflow() missing 2 required positional arguments: 'ism_agent' and 'sample_ism_input'"
+        },
+        {
+          "test": "test_template_retrieval_and_customization",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_template_retrieval_and_customization() missing 2 required positional arguments: 'ism_agent' and 'sample_ism_input'"
+        },
+        {
+          "test": "test_knowledge_base_integration",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_knowledge_base_integration() missing 2 required positional arguments: 'ism_agent' and 'sample_ism_input'"
+        },
+        {
+          "test": "test_large_text_template_handling",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_large_text_template_handling() missing 2 required positional arguments: 'ism_agent' and 'sample_complex_input'"
+        },
+        {
+          "test": "test_custom_placeholder_processing",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_custom_placeholder_processing() missing 2 required positional arguments: 'ism_agent' and 'sample_ism_input'"
+        },
+        {
+          "test": "test_output_validation_and_formatting",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_output_validation_and_formatting() missing 2 required positional arguments: 'ism_agent' and 'sample_ism_input'"
+        },
+        {
+          "test": "test_customized_document_generation",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_customized_document_generation() missing 2 required positional arguments: 'ism_agent' and 'sample_ism_input'"
+        },
+        {
+          "test": "test_knowledge_update_integration",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_knowledge_update_integration() missing 1 required positional argument: 'ism_agent'"
+        },
+        {
+          "test": "test_edge_cases_and_error_handling",
+          "status": "FAILED",
+          "error": "TestISMAgentIntegration.test_edge_cases_and_error_handling() missing 1 required positional argument: 'ism_agent'"
+        }
+      ]
+    },
+    "EndToEndWorkflow": {
+      "component": "EndToEndWorkflow",
+      "tests_run": 4,
+      "tests_passed": 1,
+      "tests_failed": 3,
+      "test_details": [
+        {
+          "test": "Simple ISM Document Generation",
+          "status": "PASSED",
+          "error": null
+        },
+        {
+          "test": "Complex Multi-Agent Workflow",
+          "status": "FAILED",
+          "error": null
+        },
+        {
+          "test": "User Feedback Loop",
+          "status": "FAILED",
+          "error": null
+        },
+        {
+          "test": "Error Recovery Workflow",
+          "status": "FAILED",
+          "error": null
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_tests": 34,
+    "total_passed": 1,
+    "total_failed": 33
+  }
+}

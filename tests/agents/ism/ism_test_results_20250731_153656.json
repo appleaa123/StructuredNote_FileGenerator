@@ -1,0 +1,30 @@
+{
+  "test_timestamp": "2025-07-31T15:36:56.045373",
+  "use_large_text_templates": true,
+  "scenarios_tested": [
+    {
+      "scenario": "autocallable",
+      "success": false,
+      "error": "'dict' object has no attribute 'document_title'"
+    },
+    {
+      "scenario": "barrier",
+      "success": false,
+      "error": "'dict' object has no attribute 'document_title'"
+    },
+    {
+      "scenario": "reverse_convertible",
+      "success": false,
+      "error": "'dict' object has no attribute 'document_title'"
+    }
+  ],
+  "llm_interaction_tests": {
+    "handled_missing_data": false,
+    "error": "'dict' object has no attribute 'document_title'"
+  },
+  "custom_placeholder_tests": {
+    "integration_success": false,
+    "error": "'dict' object has no attribute 'document_title'"
+  },
+  "overall_score": 0.0
+}

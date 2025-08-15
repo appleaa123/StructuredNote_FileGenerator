@@ -1,0 +1,33 @@
+{
+  "test_timestamp": "2025-08-12T23:24:41.890224",
+  "tests": {
+    "basic_functionality": {
+      "success": true,
+      "message": "All basic functionality tests passed"
+    },
+    "ism_models": {
+      "success": true,
+      "input_fields": 23,
+      "output_fields": 23
+    },
+    "agent_creation": {
+      "success": true,
+      "agent_type": "ISMAgent"
+    },
+    "large_text_agent": {
+      "success": true,
+      "agent_type": "LargeTextISMAgent"
+    },
+    "document_generation": {
+      "success": false,
+      "error": "Error generating document with ism agent: status_code: 401, model_name: gpt-4o-mini, body: {'message': 'Incorrect API key provided: dummy. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}"
+    },
+    "error_handling": {
+      "success": true,
+      "validation_tests": "passed"
+    }
+  },
+  "overall_score": 8.333333333333334,
+  "critical_issues": [],
+  "recommendations": []
+}
