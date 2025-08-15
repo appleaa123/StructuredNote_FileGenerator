@@ -1,0 +1,43 @@
+# LightRAG Configuration Template
+# Copy this file to .env and fill in your actual values
+
+# LLM Configuration
+LLM_BINDING=openai
+LLM_MODEL=gpt-4o-mini
+LLM_BINDING_HOST=https://api.openai.com/v1
+LLM_BINDING_API_KEY=your_openai_api_key_here
+
+# Core Framework Expected Vars
+# Required by core.config.GlobalConfig (used across the system)
+OPENAI_API_KEY=your_openai_api_key_here
+OPENAI_MODEL=gpt-4o-mini
+
+# Embedding Configuration
+EMBEDDING_BINDING=openai
+EMBEDDING_MODEL=text-embedding-3-small
+EMBEDDING_BINDING_HOST=https://api.openai.com/v1
+EMBEDDING_BINDING_API_KEY=your_openai_api_key_here
+
+# Processing Configuration
+MAX_PARALLEL_INSERT=2
+MAX_ASYNC=4
+MAX_TOKENS=32768
+TIMEOUT=200
+
+# Optional: Alternative LLM providers
+# For Azure OpenAI:
+# LLM_BINDING=azure
+# LLM_BINDING_HOST=https://your-resource.openai.azure.com/
+# LLM_BINDING_API_KEY=your_azure_api_key_here
+
+# For local models (Ollama):
+# LLM_BINDING=ollama
+# LLM_MODEL=llama3.2
+# LLM_BINDING_HOST=http://localhost:11434
+# LLM_BINDING_API_KEY=
+
+# For local models (LM Studio):
+# LLM_BINDING=lmstudio
+# LLM_MODEL=local
+# LLM_BINDING_HOST=http://localhost:1234/v1
+# LLM_BINDING_API_KEY= 

@@ -1,0 +1,209 @@
+[Executive Summary]
+Autocallable Plus Notes
+Principal at Risk Notes - Due January 29, 2032
+August 14, 2025
+
+The Bank of Nova Scotia short form base shelf prospectus dated March 4, 2024, a prospectus supplement thereto dated March 5, 2024 and pricing supplement No. 0001 (the "pricing supplement") thereto dated January 29, 2025 (collectively, the "Prospectus") have been filed with the securities regulatory authorities in each of the provinces and territories of Canada. A copy of the Prospectus and any amendments or supplements thereto that have been filed are required to be delivered with this document. The Prospectus and any amendments or supplements thereto contain important information relating to the securities described in this document. This document does not provide full disclosure of all material facts relating to the securities offered and investors should read the Prospectus, and any amendments or supplements thereto, for disclosure of those facts, especially risk factors relating to the securities offered, before making an investment decision. A copy of the short form base shelf prospectus, the prospectus supplement and the pricing supplement can also be obtained at www.sedarplus.ca. Unless the context otherwise requires, terms not otherwise defined herein will have the meaning ascribed thereto in the Prospectus.
+Linked to The Bank of Nova Scotia
+Contingent Coupon Payments of up to 59.50%
+Quarterly autocall at 5.00%
+30.00% Contingent Principal Protection at Maturity
+
+[Key Terms]
+The Bank of Nova Scotia
+The Bank of Nova Scotia (the "Bank").
+
+Reference Portfolio and Reference Companies
+A basket of reference companies providing exposure to Canadian Financials Basket with diversified risk characteristics.
+
+Autocall
+The Notes will be automatically called (i.e., redeemed) by the Bank if the Closing Portfolio Price on any Autocall Valuation Date is greater than or equal to the Autocall Price. If the Notes are called, holders will receive both the 100000000.00 and a Variable Return for the applicable Autocall Valuation Date. The Notes are callable on an annual basis and cannot be automatically called prior to August 14, 2026. If the Closing Portfolio Price on any Autocall Valuation Date is not greater than or equal to the applicable Autocall Price, the Notes will not be automatically called by the Bank and the Variable Return will not be paid to holders in respect of such Autocall Valuation Date.
+
+Potential Variable Return
+The Variable Return, if any, applicable to each respective Valuation Date will be calculated using the following formula:
+
+100000000.00 x (Fixed Return + Additional Return)
+
+The Additional Return, if any, is equal to 5.00% of the amount by which the Price Return on the applicable Valuation Date exceeds the applicable Fixed Return, calculated using the formula below:
+
+5.00% x (Price Return - Fixed Return)
+
+If the Price Return on the applicable Valuation Date is equal to or less than the applicable Fixed Return, no Additional Return will be paid on the Notes.
+
+The Fixed Return used in the calculation of the Variable Return, if any, and the calculation of the Additional Return, if any, for each Valuation Date will be as follows:
+AUTOCALL PAYMENT SCHEDULE
+┌────────────────────────┬──────────────────────────────────┬──────────────────┐
+│ Valuation Date         │ Autocall Level                   │ Fixed Return     │
+├────────────────────────┼──────────────────────────────────┼──────────────────┤
+│ August 14, 2026     │ 100.00% of the Initial Portfolio Price │ 8.50% │
+│ August 14, 2027     │ 100.00% of the Initial Portfolio Price │ 17.00% │
+│ August 14, 2028     │ 100.00% of the Initial Portfolio Price │ 25.50% │
+│ August 14, 2029     │ 100.00% of the Initial Portfolio Price │ 34.00% │
+│ August 14, 2030     │ 100.00% of the Initial Portfolio Price │ 42.50% │
+│ August 14, 2031     │ 100.00% of the Initial Portfolio Price │ 51.00% │
+│ January 28, 2032   │ 100.00% of the Initial Portfolio Price │ 59.50% │
+└────────────────────────┴──────────────────────────────────┴──────────────────┘
+
+Contingent Principal Protection
+30.00% contingent principal protection. The Notes provide contingent principal protection at maturity if the Final Portfolio Price on the January 28, 2032 is greater than or equal to the Barrier Price (which is 70.00% of the Initial Portfolio Price). If the Final Portfolio Price on the January 28, 2032 is less than the Barrier Price, a holder of the Notes will be fully exposed to any negative performance of the Canadian Financials Basket (CIBC, Great-West Lifeco, Manulife, Power Corp, TD; 20% each), meaning that substantially all of such holder's investment may be lost (subject to a minimum principal repayment of $1.00 per Note).
+
+KEY 7 yearsS SUMMARY
+┌───────────────────┬─────────────────────────────┐
+│ Fundserv          │ TBD             │
+│ Available Until   │ August 07, 2025      │
+│ January 29, 2025        │ January 29, 2025                │
+│ 7 years to Maturity  │ 7 years (if not called)      │
+└───────────────────┴─────────────────────────────┘
+
+CONTACT INFORMATION
+┌────────────────────────────────────────┬──────────────────┐
+│ Sales and Marketing                    │ 1-866-416-7891   │
+│ Fundserv Customer Service for Advisors │ 1-833-594-3143   │
+└────────────────────────────────────────┴──────────────────┘
+
+[Additional Key Terms]
+100000000.00
+$100.00 per Note.
+
+Minimum Investment
+$5,000 (50 Notes).
+
+CUSIP
+06418Y2501
+
+TBD
+TBD
+
+January 29, 2025
+January 29, 2025 (the "January 29, 2025"), provided that if such day is not an Exchange Business Day then the January 29, 2025 will be the first succeeding day that is an Exchange Business Day, subject to the occurrence of any special circumstances (see "Special Circumstances" in the pricing supplement).
+
+January 28, 2032
+January 28, 2032 (the "January 28, 2032"), provided that if such day is not an Exchange Business Day then the January 28, 2032 will be the immediately preceding Exchange Business Day, subject to the Notes being automatically called and the occurrence of any special circumstances (see "Special Circumstances" in the pricing supplement).
+
+Valuation Dates, Payment Dates and Call Dates
+The specific Valuation Dates, Payment Dates and Call Dates for the Notes will be as indicated in the table below, subject to the occurrence of any special circumstances (see "Special Circumstances" in the pricing supplement) and the Notes being automatically called by the Bank. The Notes are callable on an annual basis and cannot be automatically called by the Bank prior to August 14, 2026.
+
+VALUATION AND PAYMENT SCHEDULE
+┌──────────────────────────────────────────┬──────────────────────────────────┐
+│ Valuation Date                           │ Payment Date/Call Date           │
+├──────────────────────────────────────────┼──────────────────────────────────┤
+│ August 14, 2026                       │ [Payment Date 1]                 │
+│ August 14, 2027                       │ [Payment Date 2]                 │
+│ August 14, 2028                       │ [Payment Date 3]                 │
+│ August 14, 2029                       │ [Payment Date 4]                 │
+│ August 14, 2030                       │ [Payment Date 5]                 │
+│ August 14, 2031                       │ [Payment Date 6]                 │
+│ January 28, 2032 (January 28, 2032) │ January 29, 2032 (January 29, 2032)    │
+└──────────────────────────────────────────┴──────────────────────────────────┘
+
+Each of the Valuation Dates (other than the January 28, 2032) is an "Autocall Valuation Date". Unless the Notes are automatically called by the Bank prior to maturity, the January 29, 2032 is the last Payment Date. If the Notes are automatically called (i.e., redeemed) by the Bank on any Call Date prior to the January 29, 2032, the Notes will be cancelled, all amounts due shall be paid to holders on the applicable Payment Date and holders will not be entitled to receive any subsequent payments in respect of the Notes.
+
+If an Autocall Valuation Date is not an Exchange Business Day then the Autocall Valuation Date will be the immediately preceding Exchange Business Day, subject to the occurrence of any special circumstances (see "Special Circumstances" in the pricing supplement). If a Payment Date, a Call Date or the January 29, 2032 is not a Business Day then the related payment the Bank is obligated to make on such day, if any, will be paid to the holder on the immediately following Business Day, subject to the occurrence of any special circumstances (see "Special Circumstances" in the pricing supplement), and no interest shall be paid in respect of such delay.
+
+Maturity Redemption Amount
+Holders of record will be entitled to an amount payable per Note if the Notes are automatically called by the Bank, or at maturity, as the case may be (in each case, the "Maturity Redemption Amount") as calculated by the Calculation Agent in accordance with the applicable formula below:
+
+If the Closing Portfolio Price on an Autocall Valuation Date or the Final Portfolio Price on the January 28, 2032 is greater than or equal to the applicable Autocall Price, the Maturity Redemption Amount will equal:
+100000000.00 + Variable Return
+
+If the Final Portfolio Price on the January 28, 2032 is less than the Autocall Price but greater than or equal to the Barrier Price, the Maturity Redemption Amount will equal:
+100000000.00
+
+If the Final Portfolio Price on the January 28, 2032 is less than the Barrier Price, the Maturity Redemption Amount will equal:
+100000000.00 + (100000000.00 x Price Return)
+
+The Maturity Redemption Amount will be substantially less than the 100000000.00 invested by an investor if the Final Portfolio Price on the January 28, 2032 is less than the Barrier Price. The Maturity Redemption Amount will be subject to a minimum principal repayment of $1.00 per Note.
+
+[Autocall Level/Price 7 years]
+100.00% of the Initial Portfolio Price
+
+[Barrier Level/Price 7 years]
+70.00% of the Initial Portfolio Price.
+
+[Return Calculation Metric 7 years]
+The Price Return is an amount expressed as a percentage (which can be zero, positive or negative) calculated by the Calculation Agent in accordance with the following formula:
+(Final Portfolio Price - Initial Portfolio Price) / Initial Portfolio Price
+
+Listing and Secondary Market
+The Notes will not be listed on any exchange or marketplace. Scotia Capital Inc. will use reasonable efforts under normal market conditions to provide a daily secondary market for the sale of the Notes but reserves the right to elect not to do so at any time in the future, in its sole and absolute discretion, without prior notice to holders.
+
+Early Trading Charge
+[Include this section if applicable]
+
+EARLY TRADING CHARGE SCHEDULE
+┌───────────────────────────┬────────────────────────────────────────┐
+│ If Sold Within            │ Early Trading Charge (% of 100000000.00) │
+├───────────────────────────┼────────────────────────────────────────┤
+│ 0-90 days of January 29, 2025   │ [Early Trading Charge 0-90 Days]       │
+│ 91-180 days of January 29, 2025 │ [Early Trading Charge 91-180 Days]     │
+│ Thereafter                │ Nil                                    │
+└───────────────────────────┴────────────────────────────────────────┘
+
+Eligibility for Investment
+Eligible for RRSPs, RRIFs, RESPs, RDSPs, DPSPs, TFSAs and FHSAs.
+
+Fees and Expenses
+The selling concession to be paid by the Bank to Scotia Capital Inc. will be 1.75% of the 100000000.00 per Note for institutional distribution. Additional structuring fees of 0.50% apply.
+
+[Scenarios]
+EYPOTHETICAL EXAMPLES
+
+The following hypothetical examples show how the Variable Return and Maturity Redemption Amount would be calculated and determined based on certain
+hypothetical values and assumptions that are set out below. These examples are for illustrative purposes only and should not be construed as an estimate or
+forecast of the performance of the Index or the return that an investor might realize on the Notes. The return on the Notes will be calculated based on the
+performance of the Index, which reflects the gross total return performance of the Target Index as reduced by the Adjusted Return Factor. Certain dollar amounts
+are rounded to the nearest whole cent and “$” refers to the relevant currency for the specific hypothetical dollar amounts and hypothetical prices that the context
+requires.
+
+Example #1 - The Notes are not automatically called as the Closing Index Level on each Autocall Valuation Date is less than the Autocall Level. The Final Index
+Level on the January 28, 2032 is less than the Barrier Level and no Variable Return is payable.
+
+Example #2 - The Notes are not automatically called as the Closing Index Level on each Autocall Valuation Date is less than the Autocall Level. The Final Index
+Level on the January 28, 2032 is less than the Autocall Level, but greater than or equal to the Barrier Level and no Variable Return is payable.
+
+Example #3 - The Notes are not automatically called as the Closing Index Level on each Autocall Valuation Date is less than the Autocall Level. The Final Index
+Level on the January 28, 2032 is greater than or equal to the Autocall Level and a Variable Return is payable consisting of a Fixed Return only. No
+Additional Return is payable as the Index Return is less than or equal to the Fixed Return.
+
+Example #4 - The Notes are not automatically called on the 2026 or 2027 Autocall Valuation Dates as the Closing Index Level is less than the Autocall Level.
+The Notes are automatically called on the 2028 Autocall Valuation Date as the Closing Index Level is greater than or equal to the Autocall Level and a Variable
+Return is payable consisting of a Fixed Return and an Additional Return as the Index Return is greater than the Fixed Return.
+
+Example #5 - The Notes are automatically called on the 2026 Autocall Valuation Date as the Closing Index Level is greater than or equal to the Autocall Level
+and a Variable Return is payable consisting of a Fixed Return only. No Additional Return is payable as the Index Return is less than the Fixed Return.
+
+[Disclaimer]
+DISCLAIMER
+No securities regulatory authority has in any way passed upon the merits of the securities referred to herein and any representation to the contrary is an offence. The Notes are not principal protected (subject to a minimum principal repayment of $1.00 per Note) and an investor may receive substantially less than the original principal amount at maturity. A person should reach a decision to invest in the Notes only after carefully considering, with his or her investment, legal, accounting, tax and other advisors, the suitability of the Notes in light of his or her investment objectives and the information set out in the Prospectus. The Bank, the Calculation Agent, Scotia Capital Inc. and TBD make no recommendation as to the suitability of the Notes for investment by any particular person. The Notes have not been, and will not be, registered under the United States Securities Act of 1933, as amended (the "1933 Act"), or any State securities laws and, subject to certain exceptions, may not be offered for sale, sold or delivered, directly or indirectly, in the United States, its territories or possessions or to or for the account or benefit of U.S. persons within the meaning of Regulation S under the 1933 Act. In addition, the Notes may not be offered or sold to residents of any jurisdiction or country in Europe. "Scotiabank" and "Scotiabank Global Banking and Markets" are registered trademarks of The Bank of Nova Scotia. Scotia Capital Inc. is a wholly-owned subsidiary of The Bank of Nova Scotia.
+
+Amounts paid to holders of the Notes will depend on the performance of the underlying interests. Unless otherwise specified in the Prospectus, the Bank does not guarantee that any of the principal amount of the Notes will be paid, or guarantee that any return will be paid on the Notes, at or prior to maturity (in each case, subject to a minimum principal repayment of $1.00 per Note). Purchasers could lose substantially all of their investment in the Notes. The Notes are not appropriate investments for persons who do not understand the risks associated with structured products or derivatives. A purchaser of the Notes will be exposed to fluctuations and changes in the prices of the Canadian Financials Basket (CIBC, Great-West Lifeco, Manulife, Power Corp, TD; 20% each) to which the Notes are linked. The Canadian Financials Basket (CIBC, Great-West Lifeco, Manulife, Power Corp, TD; 20% each) prices may be volatile and an investment linked to Canadian Financials Basket (CIBC, Great-West Lifeco, Manulife, Power Corp, TD; 20% each) prices may also be volatile. Purchasers should read carefully the "Risk Factors" sections in the Prospectus.
+
+The Notes will not constitute deposits under the Canada Deposit Insurance Corporation Act or under any other deposit insurance regime. The Notes have not been rated and will not be insured by the Canada Deposit Insurance Corporation or any other entity and therefore the payments to investors will be dependent upon the financial health and creditworthiness of the Bank.
+
+Scotia Capital Inc. is a wholly owned subsidiary of the Bank. Consequently, the Bank is a related and connected issuer of Scotia Capital Inc. within the meaning of applicable securities legislation. See "Plan of Distribution" in the Prospectus.
+
+The information contained herein, while obtained from sources believed to be reliable, is not guaranteed as to its accuracy or completeness.
+
+[Use the following section for notes linked to a basket of shares]
+
+THE REFERENCE COMPANIES AND THE REFERENCE SHARES
+All information regarding the Reference Shares and the Reference Companies contained herein has been derived from publicly available sources and its accuracy cannot be guaranteed. The Notes are not in any way sponsored, endorsed, sold or promoted by the Reference Companies.
+
+All information in the pricing supplement relating to the Reference Companies including the Reference Shares is derived from publicly available sources and is presented in the pricing supplement in summary form.
+
+The return payable on the Notes is linked to the price performance of the Reference Shares of the Reference Companies. Accordingly, certain risk factors applicable to investors who invest directly in the Reference Shares are also applicable to an investment in the Notes to the extent that such risk factors could adversely affect the performance of the Reference Shares. Prospective investors are urged to conduct their own independent investigation of the Reference Companies prior to making any investment decision with respect to the Notes. The Bank is not affiliated with the Reference Companies and has not performed any due diligence investigation or review of the Reference Companies.
+
+An investment in the Notes does not represent a direct or indirect investment in the Reference Shares or the Reference Companies and investors do not have an ownership or any other interest (including voting rights or the right to receive any dividends, distributions or other income or amounts accruing or paid thereon) in respect of such Reference Shares. Past performance of the Reference Companies or the Reference Shares is not indicative of future returns.
+
+[Use the following section for notes linked to an index]
+
+INDEX SPONSOR
+The Index Sponsor and the Bank have entered into a non-exclusive license agreement providing for the license to the Bank, in exchange for a fee, of the right to use the Index and the Target Index, which are owned, calculated, administered and published by the Index Sponsor, in connection with the Notes.
+
+The license agreement between the Index Sponsor and the Bank provides that the following language must be set forth herein:
+
+The Notes are not sponsored, promoted, sold or supported in any other manner by the Index Sponsor nor does the Index Sponsor offer any express or implicit guarantee or assurance, either with regard to the results of using the Index, the Target Index and/or the trade marks of the Index and Target Index or the applicable "Index Price" (as defined in the license agreement) in respect of the Index and Target Index at any time or in any other respect. The Index and Target Index are calculated and published by the Index Sponsor. The Index Sponsor uses its best efforts to ensure that the Index and Target Index are calculated correctly. Irrespective of its obligations towards the Bank, the Index Sponsor has no obligation to point out errors in the Index and Target Index to third parties including but not limited to investors and/or financial intermediaries of the Notes. Neither publication of the Index and Target Index by the Index Sponsor nor the licensing of the Index and Target Index or the trade marks of the Index and Target Index for the purpose of use in connection with the Notes constitutes a recommendation by the Index Sponsor to invest capital in the Notes nor does it in any way represent an assurance or opinion of the Index Sponsor with regard to any investment in the Notes.
+
+TRADEMARK NOTICE
+T™ Trademark of The Bank of Nova Scotia, used under license (where applicable). Scotiabank is a marketing name for the global corporate and investment banking and capital markets businesses of The Bank of Nova Scotia and certain of its affiliates in the countries where they operate including Scotia Capital Inc. (Member-Canadian Investor Protection Fund and regulated by the Canadian Investment Regulatory Organization). Important legal information may be accessed at https://www.gbm.scotiabank.com/en/legal.html. Products and services described are available only by Scotiabank licensed entities in jurisdictions where permitted by law. This information is not directed to or intended for use by any person resident or located in any country where its distribution is contrary to its laws. Not all products and services are offered in all jurisdictions.
+

@@ -1,0 +1,46 @@
+ISM AGENT TEST SUMMARY
+==================================================
+
+Test Date: 2025-07-31 15:42:00
+Status: SUCCESS
+Overall Score: 10/10
+
+CONFIGURATION
+--------------------
+Company: Your Financial Services Ltd
+Regulator: the Canadian Investment Regulatory Organization
+Phone: 1-833-594-3143
+Asset: Solactive Canada Insurance 220 AR Index (the "Inde...
+Volatility: 11.25%-78.75% annually
+
+DOCUMENT GENERATION
+--------------------
+Sections Generated: 5
+Total Words: 3,380
+Total Characters: 21,680
+
+PLACEHOLDER INTEGRATION
+--------------------
+YOUR_REGULATOR -> disclaimer
+YOUR_PHONE -> key_terms
+TRADEMARK_NOTICE -> executive_summary
+INITIAL_VALUATION_DATE -> executive_summary
+
+Total Placeholders Used: 4
+
+QUALITY ASSESSMENT
+--------------------
+✅ Content Quality: 10/10
+✅ Regulatory Compliance: PASSED
+✅ Canadian Regulatory Language: INCLUDED
+✅ Professional Formatting: PASSED
+✅ LLM Interaction: WORKING
+✅ Missing Data Handling: WORKING
+
+CONCLUSION
+--------------------
+🎉 ISM Agent is working perfectly!
+✅ Ready for production use
+✅ Canadian regulatory compliance achieved
+✅ Custom placeholders integrated successfully
+✅ LLM interaction capabilities confirmed

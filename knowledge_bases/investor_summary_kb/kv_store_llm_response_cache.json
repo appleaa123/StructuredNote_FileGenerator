@@ -1,0 +1,80 @@
+{
+  "mix:keywords:657d339db69c49031d97d697640ba3db": {
+    "return": "{\"high_level_keywords\": [\"Autocallable structured notes\", \"S&P 500 Index\", \"Investor information\", \"Financial products\"], \"low_level_keywords\": [\"Investment examples\", \"Returns\", \"Risk factors\", \"Market performance\", \"Principal protection\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "autocallable structured note S&P 500 Index investor information examples",
+    "create_time": 1755265377,
+    "update_time": 1755265377,
+    "_id": "mix:keywords:657d339db69c49031d97d697640ba3db"
+  },
+  "mix:keywords:9ddfbee4a9165cb43c309998ccfc5bdf": {
+    "return": "{\"high_level_keywords\": [\"Autocallable\", \"S&P 500 Index\", \"Scenario analysis\", \"Performance examples\"], \"low_level_keywords\": [\"Financial products\", \"Market scenarios\", \"Return profiles\", \"Risk assessment\", \"Investment strategies\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "autocallable S&P 500 Index scenario analysis performance examples",
+    "create_time": 1755265377,
+    "update_time": 1755265377,
+    "_id": "mix:keywords:9ddfbee4a9165cb43c309998ccfc5bdf"
+  },
+  "mix:keywords:4d008ebfe2e1f568b055a7df0a34776c": {
+    "return": "{\"high_level_keywords\": [\"Investor summary\", \"Autocallable products\"], \"low_level_keywords\": [\"Template\", \"Investment details\", \"Financial instruments\", \"Market performance\", \"Risk assessment\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "investor summary template autocallable autocallable investor summary",
+    "create_time": 1755265378,
+    "update_time": 1755265378,
+    "_id": "mix:keywords:4d008ebfe2e1f568b055a7df0a34776c"
+  },
+  "mix:keywords:f8fe64526e9aa9488abcbd6b1894008e": {
+    "return": "{\"high_level_keywords\": [\"Risk explanation\", \"Market\", \"Credit\", \"Liquidity\", \"Product\", \"Retail investors\"], \"low_level_keywords\": [\"Plain language\", \"Examples\", \"Financial risk\", \"Investment risks\", \"Credit risk\", \"Liquidity risk\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "risk explanation market, credit, liquidity, product retail_investors plain language examples",
+    "create_time": 1755265378,
+    "update_time": 1755265378,
+    "_id": "mix:keywords:f8fe64526e9aa9488abcbd6b1894008e"
+  },
+  "mix:keywords:4684a09908c39c4f0599476808cdad07": {
+    "return": "{\"high_level_keywords\": [\"Regulatory disclosure\", \"US investors\", \"Mandatory requirements\"], \"low_level_keywords\": [\"Investor summary\", \"Disclosure language\", \"Regulatory compliance\", \"Financial reporting\", \"Securities and Exchange Commission\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "regulatory disclosure US investor_summary requirements mandatory language",
+    "create_time": 1755265378,
+    "update_time": 1755265378,
+    "_id": "mix:keywords:4684a09908c39c4f0599476808cdad07"
+  },
+  "mix:keywords:3ba64f380aec87f6e344438ca670ccc0": {
+    "return": "{\"high_level_keywords\": [\"Autocallable products\", \"Comparable products\", \"Market examples\"], \"low_level_keywords\": [\"Financial instruments\", \"Structured products\", \"Investment returns\", \"Market trends\", \"Risk assessment\"]}",
+    "cache_type": "keywords",
+    "chunk_id": null,
+    "embedding": null,
+    "embedding_shape": null,
+    "embedding_min": null,
+    "embedding_max": null,
+    "original_prompt": "autocallable comparable products recent market examples",
+    "create_time": 1755265379,
+    "update_time": 1755265379,
+    "_id": "mix:keywords:3ba64f380aec87f6e344438ca670ccc0"
+  }
+}

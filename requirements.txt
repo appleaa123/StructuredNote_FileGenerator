@@ -1,0 +1,62 @@
+# Multi-Agent Financial Document Generation Framework Requirements
+
+# Core Pydantic and AI Dependencies
+pydantic>=2.11.1
+pydantic-ai>=0.0.49
+pydantic-ai-slim>=0.0.49
+pydantic-evals>=0.0.49
+pydantic-graph>=0.0.49
+pydantic-settings>=2.8.1
+
+# LightRAG and Knowledge Management
+lightrag-hku>=1.3.0
+
+# LLM and AI Model Support
+openai>=1.70.0
+anthropic>=0.49.0
+cohere>=5.14.0
+groq>=0.21.0
+mistralai>=1.6.0
+
+# Document Processing and Generation
+python-docx>=1.1.2
+python-dotenv>=1.1.0
+
+# HTTP and Networking
+httpx>=0.28.1
+httpx-sse>=0.4.0
+aiohttp>=3.11.16
+requests>=2.32.3
+
+# Data Processing and Analysis
+pandas>=2.2.3
+numpy>=1.26.4
+scipy>=1.12.0
+
+# Text Processing and NLP
+tiktoken>=0.9.0
+tokenizers>=0.21.1
+
+# Utilities and Support
+tqdm>=4.67.1
+rich>=14.0.0
+click>=8.1.8
+python-dateutil>=2.9.0.post0
+
+# Development and Testing (optional)
+pytest>=8.3.4
+pytest-asyncio>=0.21.0
+black>=23.0.0
+isort>=5.12.0
+flake8>=6.0.0
+
+# Optional: Additional document formats
+# pypdf2>=3.0.0              # For PDF processing
+# reportlab>=4.0.0           # For PDF generation
+# openpyxl>=3.1.0           # For Excel processing
+# markdown>=3.5.0           # For Markdown processing
+
+# Optional: Advanced features
+# streamlit>=1.44.1         # For web interface
+fastapi>=0.115.0            # For REST API
+uvicorn>=0.35.0             # For ASGI server
